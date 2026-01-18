@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 300">
+  <style>
+    .title {
+      font-family: "Times New Roman", "Garamond", "Georgia", serif;
+      font-size: 96px;
+      letter-spacing: 0.18em;
+      fill: #000;
+    }
+
+    .subtitle {
+      font-family: "Times New Roman", "Garamond", "Georgia", serif;
+      font-size: 42px;
+      letter-spacing: 0.45em;
+      fill: #000;
+    }
+
+    .line {
+      stroke: #000;
+      stroke-width: 2;
+    }
+  </style>
+
+  <!-- HELFORD -->
+  <text x="50%" y="120" text-anchor="middle" class="title">
+    HELFORD
+  </text>
+
+  <!-- Line -->
+  <line x1="200" y1="155" x2="700" y2="155" class="line" />
+
+  <!-- VINEYARD -->
+  <text x="50%" y="230" text-anchor="middle" class="subtitle">
+    VINEYARD
+  </text>
+</svg>
